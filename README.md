@@ -1,12 +1,36 @@
-# React + Vite
+# 🛒 React Shopping Cart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **Online Shopping Cart** built using **React.js**, **Redux Toolkit**, and **Axios**. This project helped me learn how to manage global state using Redux, route between pages with React Router DOM, and fetch data from external APIs using Axios.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📦 View products from **FakeStore API**
+- 🛒 Add and remove items from the cart with a single click
+- 🔄 Cart state is managed globally using **Redux Toolkit**
+- ⚡ Fast and responsive UI built with **React**
+- 🔗 Routing between Home and Cart pages using **React Router DOM**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧰 Tech Stack
+
+- **React.js**
+- **Redux Toolkit** for state management
+- **Axios** for API requests
+- **React Router DOM** for page navigation
+- **FakeStore API** for product data
+- **CSS / Tailwind** (based on your styling choice)
+
+---
+
+## 🧠 What I Learned
+
+- Setting up and using **Redux Toolkit** for a global cart system
+- Handling asynchronous API calls with **Axios**
+- Creating clean, modular React components
+- Navigating between pages using **React Router**
+- Dispatching Redux actions to update UI on button clicks
+
+---
